@@ -11,7 +11,7 @@
 
 ## Description
 
-Git repo manager is a service to provide a simple way to manage git repositories on a machine. The communication between the client and the server is done via a GRPC Protol.
+Git repo manager is a vice to provide a simple way to manage git repositories on a machine. The communication between the client and the server is done via a GRPC Protol.
 
 In addition to the server implementation, a client-debug binary is also present to enhance the debugging capabilities of the system. The client-debug allows developers to perform debugging operations on the Git repo manager service.
 
